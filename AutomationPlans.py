@@ -2,10 +2,13 @@ import pandas as pd
 import os
 
 pasta_planilhas = r'C:\Users\giova\OneDrive\Área de Trabalho\Python testes e estudos\planilhasxlsx'
+pasta_pep = r'C:\Users\giova\OneDrive\Área de Trabalho\Python testes e estudos\pepLer'
 
-arquivos = os.listdir(pasta_planilhas)
+peps = os.listdir(pasta_pep)
 
-for planilha in arquivos:
+arquivos_planilhas = os.listdir(pasta_planilhas)
+
+for planilha in arquivos_planilhas:
     caminho_arquivo = os.path.join(pasta_planilhas, planilha)
     
     df = pd.read_excel(caminho_arquivo)
