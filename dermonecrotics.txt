@@ -1,0 +1,281 @@
+Acanthoscurria_geniculata, GAZS01005961.1.p1
+Acanthoscurria_geniculata, GAZS01036062.1.p1
+Acanthoscurria_geniculata, GAZS01036063.1.p1
+Acanthoscurria_geniculata, GAZS01038618.1.p1
+Acanthoscurria_geniculata, GAZS01038619.1.p1
+Acanthoscurria_geniculata, GAZS01053224.1.p1
+
+Acanthoscurria_juruenicola, GIIZ01033077.1.p1
+Acanthoscurria_juruenicola, GIIZ01113643.1.p1
+Acanthoscurria_juruenicola, GIIZ01113644.1.p1
+Acanthoscurria_juruenicola, GIIZ01113645.1.p1
+Acanthoscurria_juruenicola, GIIZ01113646.1.p1
+
+Acanthoscurria_rondoniae, GIOJ01082477.1.p1
+Acanthoscurria_rondoniae, GIOJ01082481.1.p1
+Acanthoscurria_rondoniae, GIOJ01115951.1.p1
+Acanthoscurria_rondoniae, GIOJ01115953.1.p1
+Acanthoscurria_rondoniae, GIOJ01115954.1.p1
+
+Araneus_diadematus, GERP01023836.1.p1
+Araneus_diadematus, GERP01025307.1.p1
+
+Argiope_argentata, GIWY01034511.1.p1
+Argiope_argentata, GIWY01066355.1.p1
+Argiope_argentata, GIWY01077330.1.p1
+Argiope_argentata, GIWY01092924.1.p1
+Argiope_argentata, GIWY01095706.1.p1
+
+Caerostris_darwini, GGTX01025579.1.p1
+Caerostris_darwini, GGTX01152583.1.p1
+
+Damon_diadema, GERU01049502.1.p1
+Damon_diadema, GERU01056318.1.p1
+
+Desis_marina, GIWQ01187206.1.p1
+Desis_marina, GIWQ01293535.1.p1
+Desis_marina, GIWQ01339303.1.p2
+Desis_marina, GIWQ01350343.1.p1
+Desis_marina, GIWQ01350344.1.p1
+Desis_marina, GIWQ01350345.1.p1
+Desis_marina, GIWQ01376178.1.p2
+
+Hasarius_adansoni, GJQJ01035732.1.p1
+Hasarius_adansoni, GJQJ01035733.1.p1
+Hasarius_adansoni, GJQJ01035734.1.p1
+Hasarius_adansoni, GJQJ01120165.1.p1
+
+Latrodectus_geometricus, GBJM01019208.1.p1
+Latrodectus_geometricus, GBJM01060190.1.p1
+Latrodectus_geometricus, GBJM01076168.1.p1
+Latrodectus_geometricus, GBJM01101321.1.p1
+Latrodectus_geometricus, GBJM01107353.1.p1
+Latrodectus_geometricus, GBJM01110680.1.p1
+Latrodectus_geometricus, GBJM01115339.1.p1
+Latrodectus_geometricus, GBJM01128161.1.p1
+
+Latrodectus_hesperus, GBJN01003945.1.p1
+Latrodectus_hesperus, GBJN01007758.1.p1
+Latrodectus_hesperus, GBJN01010714.1.p1
+Latrodectus_hesperus, GBJN01104888.1.p1
+Latrodectus_hesperus, GBJN01134861.1.p1
+Latrodectus_hesperus, GBJN01135127.1.p1
+Latrodectus_hesperus, GBJN01139568.1.p1
+
+Latrodectus_tredecimguttatus, GANL01010123.1.p1
+
+Marpissa_muscosa, GJIM01191828.1.p1
+Marpissa_muscosa, GJIM01191831.1.p1
+Marpissa_muscosa, GJIM01191832.1.p1
+Marpissa_muscosa, GJIM01191833.1.p1
+Marpissa_muscosa, GJIM01191834.1.p1
+Marpissa_muscosa, GJIM01191835.1.p1
+Marpissa_muscosa, GJIM01267868.1.p1
+Marpissa_muscosa, GJIM01267869.1.p1
+Marpissa_muscosa, GJIM01402262.1.p1
+Marpissa_muscosa, GJIM01412118.1.p1
+Marpissa_muscosa, GJIM01412119.1.p1
+
+Nephilengys_cruentata, gb|GEWZ01004589.1|.p1
+Nephilengys_cruentata, gb|GEWZ01009236.1|.p1
+Nephilengys_cruentata, gb|GEWZ01010255.1|.p1
+Nephilengys_cruentata, gb|GEWZ01021640.1|.p1
+
+Octonoba_grandiconcava, ICDQ01000928.1.p1
+Octonoba_grandiconcava, ICDQ01000981.1.p1
+Octonoba_grandiconcava, ICDQ01004962.1.p1
+Octonoba_grandiconcava, ICDQ01019405.1.p1
+Octonoba_grandiconcava, ICDQ01038636.1.p1
+
+Octonoba_grandiprojecta, ICKD01002034.1.p1
+Octonoba_grandiprojecta, ICKD01006928.1.p1
+Octonoba_grandiprojecta, ICKD01020822.1.p1
+
+Octonoba_okinawensis, IALW01002605.1.p1
+Octonoba_okinawensis, IALW01021325.1.p1
+Octonoba_okinawensis, IALW01031432.1.p1
+
+Octonoba_sybotides, IAUX01001495.1.p1
+Octonoba_sybotides, IAUX01008458.1.p1
+Octonoba_sybotides, IAUX01015541.1.p1
+
+Octonoba_varians, IAST01017359.1.p1
+Octonoba_varians, IAST01022051.1.p1
+Octonoba_varians, IAST01031649.1.p1
+
+Octonoba_yesoensis, IAQA01006979.1.p1
+Octonoba_yesoensis, IAQA01016582.1.p1
+Octonoba_yesoensis, IAQA01027514.1.p1
+Octonoba_yesoensis, IAQA01043255.1.p1
+
+Pamphobeteus_verdolaga, GIUY01063203.1.p1
+Pamphobeteus_verdolaga, GIUY01067936.1.p1
+Pamphobeteus_verdolaga, GIUY01125694.1.p1
+Pamphobeteus_verdolaga, GIUY01126304.1.p1
+Pamphobeteus_verdolaga, GIUY01132858.1.p1
+Pamphobeteus_verdolaga, GIUY01133431.1.p1
+Pamphobeteus_verdolaga, GIUY01133940.1.p1
+Pamphobeteus_verdolaga, GIUY01211046.1.p1
+Pamphobeteus_verdolaga, GIUY01211862.1.p1
+Pamphobeteus_verdolaga, GIUY01212901.1.p1
+Pamphobeteus_verdolaga, GIUY01335149.1.p1
+Pamphobeteus_verdolaga, GIUY01335150.1.p1
+Pamphobeteus_verdolaga, GIUY01378091.1.p1
+Pamphobeteus_verdolaga, GIUY01401941.1.p1
+Pamphobeteus_verdolaga, GIUY01451193.1.p1
+Pamphobeteus_verdolaga, GIUY01451194.1.p1
+
+Parasteatoda_tepidariorum, IAAA01021515.1.p1
+Parasteatoda_tepidariorum, IAAA01021516.1.p1
+Parasteatoda_tepidariorum, IAAA01021517.1.p1
+Parasteatoda_tepidariorum, IAAA01030581.1.p1
+Parasteatoda_tepidariorum, IAAA01034313.1.p1
+Parasteatoda_tepidariorum, IAAA01048136.1.p1
+
+Pardosa_amentata, GJIU01007858.1.p1
+Pardosa_amentata, GJIU01007859.1.p1
+Pardosa_amentata, GJIU01007860.1.p1
+Pardosa_amentata, GJIU01007861.1.p1
+Pardosa_amentata, GJIU01007864.1.p1
+Pardosa_amentata, GJIU01007865.1.p1
+Pardosa_amentata, GJIU01062036.1.p1
+Pardosa_amentata, GJIU01062037.1.p1
+Pardosa_amentata, GJIU01073345.1.p1
+Pardosa_amentata, GJIU01073346.1.p1
+Pardosa_amentata, GJIU01073347.1.p1
+Pardosa_amentata, GJIU01073348.1.p1
+Pardosa_amentata, GJIU01073349.1.p1
+Pardosa_amentata, GJIU01073350.1.p1
+Pardosa_amentata, GJIU01073351.1.p1
+Pardosa_amentata, GJIU01073352.1.p1
+Pardosa_amentata, GJIU01171273.1.p1
+Pardosa_amentata, GJIU01227654.1.p1
+Pardosa_amentata, GJIU01227655.1.p1
+Pardosa_amentata, GJIU01227656.1.p1
+Pardosa_amentata, GJIU01227659.1.p1
+Pardosa_amentata, GJIU01227660.1.p1
+Pardosa_amentata, GJIU01227662.1.p1
+
+Rhianodes_atratus, GIXJ01025367.1.p1
+Rhianodes_atratus, GIXJ01028775.1.p1
+Rhianodes_atratus, GIXJ01044588.1.p1
+Rhianodes_atratus, GIXJ01044648.1.p1
+Rhianodes_atratus, GIXJ01051198.1.p1
+Rhianodes_atratus, GIXJ01051199.1.p1
+Rhianodes_atratus, GIXJ01179359.1.p1
+Rhianodes_atratus, GIXJ01205341.1.p1
+
+Steatoda_grossa, GBJQ01012344.1.p1
+Steatoda_grossa, GBJQ01012345.1.p1
+Steatoda_grossa, GBJQ01012346.1.p1
+Steatoda_grossa, GBJQ01030523.1.p1
+Steatoda_grossa, GBJQ01031377.1.p1
+Steatoda_grossa, GBJQ01119592.1.p1
+
+Stegodyphus_mimosarum, GAZR01017140.1.p1
+Stegodyphus_mimosarum, GAZR01018481.1.p1
+Stegodyphus_mimosarum, GAZR01026053.1.p1
+
+Tengella_perfuga, GGOF01002299.1.p1
+Tengella_perfuga, GGOF01019793.1.p1
+Tengella_perfuga, GGOF01082581.1.p1
+Tengella_perfuga, GGOF01100392.1.p2
+Tengella_perfuga, GGOF01109334.1.p1
+Tengella_perfuga, GGOF01120300.1.p1
+
+Tetragnatha_brevignatha, GITM01004433.1.p1
+Tetragnatha_brevignatha, GITM01044831.1.p1
+Tetragnatha_brevignatha, GITM01044832.1.p1
+Tetragnatha_brevignatha, GITM01119739.1.p1
+Tetragnatha_brevignatha, GITM01119740.1.p1
+
+Tetragnatha_filiciphilia, GITN01021005.1.p1
+Tetragnatha_filiciphilia, GITN01021006.1.p1
+Tetragnatha_filiciphilia, GITN01021008.1.p1
+Tetragnatha_filiciphilia, GITN01021009.1.p1
+Tetragnatha_filiciphilia, GITN01021010.1.p1
+Tetragnatha_filiciphilia, GITN01021016.1.p1
+Tetragnatha_filiciphilia, GITN01021017.1.p1
+Tetragnatha_filiciphilia, GITN01021018.1.p1
+Tetragnatha_filiciphilia, GITN01056971.1.p1
+Tetragnatha_filiciphilia, GITN01056973.1.p1
+Tetragnatha_filiciphilia, GITN01074127.1.p1
+Tetragnatha_filiciphilia, GITN01074129.1.p1
+Tetragnatha_filiciphilia, GITN01074134.1.p1
+Tetragnatha_filiciphilia, GITN01074135.1.p1
+Tetragnatha_filiciphilia, GITN01074137.1.p1
+Tetragnatha_filiciphilia, GITN01074140.1.p1
+Tetragnatha_filiciphilia, GITN01074142.1.p1
+Tetragnatha_filiciphilia, GITN01074144.1.p1
+
+Tetragnatha_paludicola, GITO01048886.1.p1
+Tetragnatha_paludicola, GITO01080623.1.p1
+Tetragnatha_paludicola, GITO01087232.1.p1
+
+Tetragnatha_quasimodo, GITP01020052.1.p1
+Tetragnatha_quasimodo, GITP01027184.1.p1
+Tetragnatha_quasimodo, GITP01027185.1.p1
+Tetragnatha_quasimodo, GITP01027190.1.p1
+Tetragnatha_quasimodo, GITP01027193.1.p1
+Tetragnatha_quasimodo, GITP01027197.1.p1
+Tetragnatha_quasimodo, GITP01027203.1.p1
+Tetragnatha_quasimodo, GITP01045759.1.p1
+Tetragnatha_quasimodo, GITP01045766.1.p1
+Tetragnatha_quasimodo, GITP01045769.1.p1
+
+Tetragnatha_stelarobusta, GITQ01035597.1.p1
+Tetragnatha_stelarobusta, GITQ01040461.1.p1
+Tetragnatha_stelarobusta, GITQ01093151.1.p1
+Tetragnatha_stelarobusta, GITQ01093152.1.p1
+Tetragnatha_stelarobusta, GITQ01109183.1.p1
+Tetragnatha_stelarobusta, GITQ01109184.1.p1
+Tetragnatha_stelarobusta, GITQ01109186.1.p1
+Tetragnatha_stelarobusta, GITQ01109192.1.p1
+Tetragnatha_stelarobusta, GITQ01109193.1.p1
+Tetragnatha_stelarobusta, GITQ01109195.1.p1
+Tetragnatha_stelarobusta, GITQ01109200.1.p1
+Tetragnatha_stelarobusta, GITQ01109205.1.p1
+
+Tetragnatha_waikamoi, GITR01061294.1.p1
+Tetragnatha_waikamoi, GITR01061305.1.p1
+Tetragnatha_waikamoi, GITR01067770.1.p1
+Tetragnatha_waikamoi, GITR01067771.1.p1
+Tetragnatha_waikamoi, GITR01082817.1.p1
+
+Tityus_serrulatus, GBZU01013059.1.p1
+Tityus_serrulatus, GBZU01013554.1.p1
+Tityus_serrulatus, GBZU01013995.1.p1
+
+Trichonephila_clavipes.1, GFKT010029964.1.p1
+Trichonephila_clavipes.2, GFKT010962009.1.p1
+Trichonephila_clavipes.2, GFKT011035486.1.p1
+Trichonephila_clavipes.2, GFKT011254502.1.p1
+Trichonephila_clavipes.3, GFKT011355858.1.p1
+Trichonephila_clavipes.3, GFKT011440601.1.p1
+Trichonephila_clavipes.3, GFKT011675053.1.p1
+Trichonephila_clavipes.3, GFKT011675054.1.p1
+Trichonephila_clavipes.3, GFKT011878085.1.p1
+Trichonephila_clavipes.4, GFKT012036172.1.p1
+Trichonephila_clavipes.4, GFKT012036173.1.p1
+Trichonephila_clavipes.4, GFKT012151904.1.p1
+Trichonephila_clavipes.4, GFKT012337093.1.p1
+Trichonephila_clavipes.5, GFKT012903859.1.p1
+Trichonephila_clavipes.5, GFKT012903860.1.p1
+Trichonephila_clavipes.5, GFKT013234600.1.p1
+Trichonephila_clavipes.5, GFKT013299084.1.p1
+Trichonephila_clavipes.6, GFKT013484362.1.p1
+Trichonephila_clavipes.6, GFKT013514832.1.p1
+Trichonephila_clavipes.6, GFKT013652072.1.p1
+Trichonephila_clavipes.6, GFKT013689586.1.p1
+Trichonephila_clavipes.6, GFKT013830291.1.p1
+Trichonephila_clavipes.6, GFKT013874034.1.p1
+Trichonephila_clavipes.6, GFKT013874035.1.p1
+Trichonephila_clavipes.7, GFKT013982745.1.p1
+Trichonephila_clavipes.7, GFKT013982746.1.p1
+Trichonephila_clavipes.7, GFKT014020375.1.p1
+Trichonephila_clavipes.7, GFKT014061009.1.p1
+Trichonephila_clavipes.7, GFKT014384422.1.p1
+Trichonephila_clavipes.7, GFKT014409465.1.p1
+Trichonephila_clavipes.7, GFKT014409466.1.p1
+
+Uloborus_diversus, GJZJ01258860.1.p1

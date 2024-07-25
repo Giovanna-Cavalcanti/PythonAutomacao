@@ -13,4 +13,6 @@ for planilha in arquivos:
     # Verificar e imprimir os valores da primeira coluna onde a terceira coluna é "Dermonecrotic"
     for index, row in df.iterrows():
         if row.iloc[2] == "Dermonecrotic":
-            print(f"Arquivo: {planilha}, Valor: {row.iloc[0]}")
+            print(f"{planilha}, {row.iloc[0]}")
+            
+            
