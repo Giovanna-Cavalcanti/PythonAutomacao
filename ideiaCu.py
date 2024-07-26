@@ -17,13 +17,13 @@ nomes = r'C:\Users\giova\OneDrive\Área de Trabalho\Python testes e estudos\nome
 indice = 0
 
 peps = os.listdir(pasta_pep)
-arquivos_planilhas = os.listdir(pasta_planilhas)
+planilhas = os.listdir(pasta_planilhas)
 
 nomes_arquivos = ler_arquivo_codigos(nomes)
 
 coisa = []
 
-for planilha in arquivos_planilhas:
+for planilha in planilhas:
     caminho_arquivo = os.path.join(pasta_planilhas, planilha)
     
     df = pd.read_excel(caminho_arquivo)
@@ -42,10 +42,11 @@ for planilha in arquivos_planilhas:
                     coisa.append({
                         "conteudo": substring
                     })
-                    save_to_json(coisa, ler_arquivo_codigos(nomes)[indice] + ".json")
-                    # print(coisa)
-                    indice += 1
-                    coisa = []
+    # print(coisa)
+    save_to_json(coisa, ler_arquivo_codigos(nomes)[indice] + ".json")
+    indice += 1
+    coisa = []
+            
 
 
 
