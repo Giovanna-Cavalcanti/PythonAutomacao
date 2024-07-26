@@ -8,7 +8,10 @@ def ler_arquivo_codigos(caminho_arquivo):
     return [linha.strip() for linha in linhas]
 
 def save_to_json(data, filename):
-    with open(filename, 'w') as json_file:
+    output_dir = 'outputs'
+    os.makedirs(output_dir, exist_ok=True)
+    file_path = os.path.join(output_dir, filename)
+    with open(file_path, 'w') as json_file:
         json.dump(data, json_file, indent=4)
         
 pasta_planilhas = r'C:\Users\giova\OneDrive\Área de Trabalho\Python testes e estudos\planilhasxlsx'
