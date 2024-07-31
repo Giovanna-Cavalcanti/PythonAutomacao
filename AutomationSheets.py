@@ -7,17 +7,21 @@ def ler_arquivo_codigos(caminho_arquivo):
         linhas = arquivo.readlines()
     return [linha.strip() for linha in linhas]
 
-# def save_to_json(data, filename):
-#     output_dir = 'outputs'
-#     os.makedirs(output_dir, exist_ok=True)
-#     file_path = os.path.join(output_dir, filename)
-#     with open(file_path, 'w') as json_file:
-#         json.dump(data, json_file, indent=4)
+def save_to_json(data, filename):
+    output_dir = 'outputs'
+    os.makedirs(output_dir, exist_ok=True)
+    file_path = os.path.join(output_dir, filename)
+    with open(file_path, 'w') as json_file:
+        json.dump(data, json_file, indent=4)
+        
 
 def save_to_txt(data, filename):
     output_dir = 'fastas'
     os.makedirs(output_dir, exist_ok=True)
     file_path = os.path.join(output_dir, filename)
+    with open(file_path, 'w') as json_file:
+        json.dump(data, json_file, indent=4)
+
     with open(file_path, 'w') as txt_file:
         for sequence in data:
             txt_file.write(f'{sequence}\n')
@@ -51,12 +55,13 @@ for planilha in planilhas:
                 if inicio != -1 and fim != -1:
                     substring = conteudo[inicio:fim]
                     coisa.append({
-                        substring
+                        "conteudo": substring
                     })
-    # print(coisa)
-    save_to_txt(coisa, ler_arquivo_codigos(nomes)[indice] + ".fasta")
+    save_to_json(coisa, ler_arquivo_codigos(nomes)[indice] + ".json")
+    # save_to_txt(coisa, ler_arquivo_codigos(nomes)[indice] + ".fasta")
     indice += 1
-    coisa = []           
+    coisa = []
+            
 
 
 
