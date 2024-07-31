@@ -14,7 +14,6 @@ def save_to_json(data, filename):
     with open(file_path, 'w') as json_file:
         json.dump(data, json_file, indent=4)
         
-
 def save_to_txt(data, filename):
     output_dir = 'fastas'
     os.makedirs(output_dir, exist_ok=True)
@@ -33,9 +32,7 @@ indice = 0
 
 peps = os.listdir(pasta_pep)
 planilhas = os.listdir(pasta_planilhas)
-
 nomes_arquivos = ler_arquivo_codigos(nomes)
-
 coisa = []
 
 for planilha in planilhas:
@@ -57,6 +54,7 @@ for planilha in planilhas:
                     coisa.append({
                         "conteudo": substring
                     })
+    # print(coisa)
     save_to_json(coisa, ler_arquivo_codigos(nomes)[indice] + ".json")
     # save_to_txt(coisa, ler_arquivo_codigos(nomes)[indice] + ".fasta")
     indice += 1

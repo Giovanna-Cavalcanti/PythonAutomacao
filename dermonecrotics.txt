@@ -247,22 +247,27 @@ Tityus_serrulatus, GBZU01013554.1.p1
 Tityus_serrulatus, GBZU01013995.1.p1
 
 Trichonephila_clavipes.1, GFKT010029964.1.p1
+
 Trichonephila_clavipes.2, GFKT010962009.1.p1
 Trichonephila_clavipes.2, GFKT011035486.1.p1
 Trichonephila_clavipes.2, GFKT011254502.1.p1
+
 Trichonephila_clavipes.3, GFKT011355858.1.p1
 Trichonephila_clavipes.3, GFKT011440601.1.p1
 Trichonephila_clavipes.3, GFKT011675053.1.p1
 Trichonephila_clavipes.3, GFKT011675054.1.p1
 Trichonephila_clavipes.3, GFKT011878085.1.p1
+
 Trichonephila_clavipes.4, GFKT012036172.1.p1
 Trichonephila_clavipes.4, GFKT012036173.1.p1
 Trichonephila_clavipes.4, GFKT012151904.1.p1
 Trichonephila_clavipes.4, GFKT012337093.1.p1
+
 Trichonephila_clavipes.5, GFKT012903859.1.p1
 Trichonephila_clavipes.5, GFKT012903860.1.p1
 Trichonephila_clavipes.5, GFKT013234600.1.p1
 Trichonephila_clavipes.5, GFKT013299084.1.p1
+
 Trichonephila_clavipes.6, GFKT013484362.1.p1
 Trichonephila_clavipes.6, GFKT013514832.1.p1
 Trichonephila_clavipes.6, GFKT013652072.1.p1
@@ -270,6 +275,7 @@ Trichonephila_clavipes.6, GFKT013689586.1.p1
 Trichonephila_clavipes.6, GFKT013830291.1.p1
 Trichonephila_clavipes.6, GFKT013874034.1.p1
 Trichonephila_clavipes.6, GFKT013874035.1.p1
+
 Trichonephila_clavipes.7, GFKT013982745.1.p1
 Trichonephila_clavipes.7, GFKT013982746.1.p1
 Trichonephila_clavipes.7, GFKT014020375.1.p1
