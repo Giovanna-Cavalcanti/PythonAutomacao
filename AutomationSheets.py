@@ -15,7 +15,7 @@ def save_to_json(data, filename):
         json.dump(data, json_file, indent=4)
         
 def save_to_txt(data, filename):
-    output_dir = 'fastas'
+    output_dir = 'WAfastasDermonecrotic'
     os.makedirs(output_dir, exist_ok=True)
     file_path = os.path.join(output_dir, filename)
     with open(file_path, 'w') as txt_file:
@@ -47,16 +47,17 @@ for planilha in planilhas:
                 inicio = conteudo.find(row.iloc[0])
                 fim = conteudo.find(">", inicio)
                 if inicio != -1 and fim != -1:
-                    substring = conteudo[inicio:fim]
+                    substring = conteudo[inicio:fim] 
                     coisa.append({
                         # "conteudo": substring
+                        
                         substring
                     })
     # print(coisa)
-    # save_to_json(coisa, ler_arquivo_codigos(nomes)[indice] + ".json")
-    save_to_txt(coisa, "allDermonecroticsSpiders.fasta")
-    # indice += 1
-    # coisa = []
+    save_to_txt(coisa, ler_arquivo_codigos(nomes)[indice] + ".fasta")
+    # save_to_txt(coisa, "allDermonecroticsSpiders.fasta")
+    indice += 1
+    coisa = []
             
 
 
