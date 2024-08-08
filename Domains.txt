@@ -1,0 +1,388 @@
+Acanthoscurria_geniculataDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Acanthoscurria_juruenicolaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Acanthoscurria_rondoniaeDomain.xlsx:
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Araneus_diadematusDomain.xlsx:
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Argiope_argentataDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Caerostris_darwiniDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: {PF03009}
+
+
+Damon_diademaDomain.xlsx:
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Desis_marinaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Hasarius_adansoniDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Latrodectus_geometricusDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Latrodectus_hesperusDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+
+
+Latrodectus_tredecimguttatusDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Marpissa_muscosaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Nephilengys_cruentataDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Octonoba_grandiconcavaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Octonoba_grandiprojectaDomain.xlsx:
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Octonoba_okinawensisDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+
+
+Octonoba_sybotidesDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Octonoba_variansDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Octonoba_yesoensisDomain.xlsx:
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Pamphobeteus_verdolagaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Parasteatoda_tepidariorumDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Pardosa_amentataDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: Pfam, Code: {PF03009}
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: {PF03009}
+
+
+Rhianodes_atratusDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Steatoda_grossaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Stegodyphus_mimosarumDomain.xlsx:
+Database: Pfam, Code: PF13653
+
+
+Tengella_perfugaDomain.xlsx:
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: {PF03009}
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Tetragnatha_brevignathaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Tetragnatha_filiciphiliaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Tetragnatha_paludicolaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Tetragnatha_quasimodoDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: {PF03009}
+
+
+Tetragnatha_stelarobustaDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: Pfam, Code: {PF03009}
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Tetragnatha_waikamoiDomain.xlsx:
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Tityus_serrulatusDomain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+
+
+[Trichonephila_clavipes.1Domain.xlsx:]
+
+
+[Trichonephila_clavipes.2Domain.xlsx:]
+
+
+Trichonephila_clavipes.3Domain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Trichonephila_clavipes.4Domain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Trichonephila_clavipes.5Domain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+
+
+Trichonephila_clavipes.6Domain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+
+
+Trichonephila_clavipes.7Domain.xlsx:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+
+
+[Uloborus_diversusDomain.xlsx:]
+
+In general, Loxosceles and Sicarius:
+Database: SUPERFAMILY, Code: SSF51695
+Database: Pfam, Code: PF13653
+The only different is:
+Loxosceles spinulosa -> pfam: PF03009 (like Caerostris_darwini, Pardosa_amentata, Tengella_perfuga, Tetragnatha_quasimodo, Tetragnatha_stelarobusta)
+
+The ones that didn't show results (of orthorfinder): Uloborus_diversus, Trichonephila_clavipes.2, Trichonephila_clavipes.1

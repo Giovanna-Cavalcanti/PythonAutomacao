@@ -1,0 +1,17 @@
+import pandas as pd
+import os
+
+pasta_dominios = r'dominiosXlsx'
+
+planilhas = os.listdir(pasta_dominios)
+
+conjunto = []
+
+for planilha in planilhas:
+    caminho_arquivo = os.path.join(pasta_dominios, planilha)
+    df = pd.read_excel(caminho_arquivo)
+    print(f'{planilha}:')
+    for index, row in df.iterrows():
+        print(f'Database: {row.iloc[3]}, Code: {row.iloc[4]}')
+    print('\n')
+    
